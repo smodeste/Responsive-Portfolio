@@ -1,0 +1,7 @@
+#bg-img{
+    background: url('../img/home.background.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+
+}
